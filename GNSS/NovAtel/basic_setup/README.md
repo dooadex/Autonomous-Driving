@@ -1,4 +1,4 @@
-## NovAtel basic setup
+# NovAtel basic setup
 This is for basic setup to use NovAtel product.
 
 You can refer to (https://docs.novatel.com/oem7/Content/PDFs/PwrPak7_Installation_Operation_Manual.pdf)
