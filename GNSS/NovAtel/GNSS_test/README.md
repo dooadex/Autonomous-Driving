@@ -1,5 +1,5 @@
 # NovAtel GNSS test with ROS
-This is for test the GNSS system is operated well in LINUX with NovAtel product.
+This is for a test the GNSS system is operated well in LINUX with NovAtel product.
 
 <br>
 
