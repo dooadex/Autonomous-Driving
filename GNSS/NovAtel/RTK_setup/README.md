@@ -1,5 +1,5 @@
 
-## Note
+# RTK setup for NovAtel
 This Document is for RTK setup using VRS.
 
 I'm living in Korea now, so all the environments are fit on Korea.
