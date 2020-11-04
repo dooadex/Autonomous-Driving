@@ -15,17 +15,17 @@ The receiver's default port settings are:
 <li>break on</li></ul>
 
 
-### Install Novatel Connect and USB Driver
+## Install Novatel Connect and USB Driver
 Install Novatel Connect and USB Driver at (https://novatel.com/support/firmware-options-pc-software/novatel-connect)
 
 
 <img src="https://user-images.githubusercontent.com/72431755/95290272-cace2400-08a7-11eb-98ba-680f56a7c53d.png" width="50%" height="50%"></img>
 
 
-### Connect NovAtel receiver with PC
+## Connect NovAtel receiver with PC
 Connect the receiver of NovAtel with PC using 'USB port'.
 
-### Run NovAtel Connect
+## Run NovAtel Connect
 To change the settings on a COM port, use the SERIALCONFIG command. 
 
 For example: To change the data rate of COM2 to 115200, enter: <code>SERIALCONFIG COM2 115200</code>
