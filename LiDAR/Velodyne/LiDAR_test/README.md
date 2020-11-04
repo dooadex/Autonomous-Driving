@@ -1,5 +1,4 @@
 # Velodyne LiDAR test with ROS
-<br>
 
 ## Note
 Velodyne LiDAR is connected to an Ethernet port.
